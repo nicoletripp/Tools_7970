@@ -4,15 +4,18 @@ output: html_notebook
 ---
 
 
-#8/31/23
+# 8/31/23
 
 In today's class we discussed an article on artificial intelligence. Throughout our discussion, a lot of points came up in favor of AI, but many included the fears and drawbacks of its potential. I learned a lot about AI from this discussion, but one thing I realized through the varying points being made is that AI can be a useful tool in the sciences if used ethically. Although we never came to a conclusion on "what is ethical," I think this could be a discussion worth having. And the definition of "what is ethical" will also change with time. So even if we proposed a definition in class, it may not stand in 6 months when new AI developments are made. 
 
 If AI is used for simple tasks like coming up with summaries for existing literature, or explaining data in simpler terms, then I believe it can be a useful tool. Although, if it is used for writing manuscripts or grant applications then this is when it is being used unethically. Overall, I felt like we had a great discussion that got me thinking about the future of AI and I enjoyed hearing the multiple perspectives people had in class about this topic. 
 
+<span style="color:red">So true. Ethics themselves can be fluid and evolve along with the technology. I think the best thing we can be doing right now is talking about it. - Jonathon</span>
 
 
-#9/6/23 discussion
+# 9/6/23 discussion
 
-This weeks class discussed a paper on creating equitable hiring strategies to move academic departments to a more diversified faculty. I led the discussion for this weeks paper and felt privileged to do so. I do have to admit, I felt a little uncomfortable as a white women discussing how academic departments can increase diversity. But, I am thankful I was the one that had to do the work in making this weeks presentation and leading the discussion and it wasnt put on a student from a historically excluded group. Overall, I felt like the class was engaged in this weeks topic. I learned a lot from my classmates about things like requiring diversity statements and how students from underrepresented groups may feel exploited, or even tokenized, if they were to be required to write one. It was also interesting to hear how other countries dont have discussions about increasing diversity like we do in the U.S. I enjoyed hearing perspectives from everyone in the class and am happy we discussed this weeks topic as diversity in academia is lacking and we need to do better to increase it and make it feel more welcoming. 
+This weeks class discussed a paper on creating equitable hiring strategies to move academic departments to a more diversified faculty. I led the discussion for this weeks paper and felt privileged to do so. I do have to admit, I felt a little uncomfortable as a white woman discussing how academic departments can increase diversity. But, I am thankful I was the one that had to do the work in making this weeks presentation and leading the discussion and it wasn't put on a student from a historically excluded group. Overall, I felt like the class was engaged in this weeks topic. I learned a lot from my classmates about things like requiring diversity statements and how students from underrepresented groups may feel exploited, or even tokenized, if they were to be required to write one. It was also interesting to hear how other countries don't have discussions about increasing diversity like we do in the U.S. I enjoyed hearing perspectives from everyone in the class and am happy we discussed this weeks topic as diversity in academia is lacking and we need to do better to increase it and make it feel more welcoming. 
+
+<span style="color:red">I too can feel uncomfortable and uneducated when discussing DEI issues in academia. It's a challenging, but important topic, and you did a great job with the presentation. - Jonathon</span>
 
