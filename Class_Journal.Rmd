@@ -1,6 +1,8 @@
 ---
 title: "Tools_7970"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 
@@ -12,6 +14,9 @@ If AI is used for simple tasks like coming up with summaries for existing litera
 
 <span style="color:red">So true. Ethics themselves can be fluid and evolve along with the technology. I think the best thing we can be doing right now is talking about it. - Jonathon</span>
 
+<mark> You can use three dashes as separator between your weekly reports, so the knitted document looks neat. Ani
+
+---
 
 # 9/6/23 discussion
 
