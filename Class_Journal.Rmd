@@ -24,3 +24,9 @@ This weeks class discussed a paper on creating equitable hiring strategies to mo
 
 <span style="color:red">I too can feel uncomfortable and uneducated when discussing DEI issues in academia. It's a challenging, but important topic, and you did a great job with the presentation. - Jonathon</span>
 
+---
+
+#9/13/23 reproducibility crisis topic
+In this weeks class we discussed a paper on how there are concerns in science with reproducing results. Honestly, before this class I was not aware of this big issue in the sciences. I've read papers that have had conflicting results to others, but had never heard of a "reproducibility crisis." I am thankful we discussed this topic because after hearing about it I agree this is going to become more of an issue over time as more studies on similar topics are conducted. Especially when practices like HARKing become integrated into common practices. I've worked with people that do this and I just thought it was normal practice, but I can see how it can be detrimental to reproducing the results found. Some of the other contributing factors to the reproducibility issue that we discussed in class was selective reporting, pressures to publish, and poor experimental design. We also discussed the big focus on p-values and how this can be detrimental because things like sample size can significantly change the results to be "significant." Overall, I enjoyed our discussion and am happy I am now aware of this issue so I can hopefully avoid it in future projects.
+
+
