@@ -26,11 +26,15 @@ This weeks class discussed a paper on creating equitable hiring strategies to mo
 
 ---
 
-#9/13/23 reproducibility crisis topic
+# 9/13/23 reproducibility crisis topic
 In this weeks class we discussed a paper on how there are concerns in science with reproducing results. Honestly, before this class I was not aware of this big issue in the sciences. I've read papers that have had conflicting results to others, but had never heard of a "reproducibility crisis." I am thankful we discussed this topic because after hearing about it I agree this is going to become more of an issue over time as more studies on similar topics are conducted. Especially when practices like HARKing become integrated into common practices. I've worked with people that do this and I just thought it was normal practice, but I can see how it can be detrimental to reproducing the results found. Some of the other contributing factors to the reproducibility issue that we discussed in class was selective reporting, pressures to publish, and poor experimental design. We also discussed the big focus on p-values and how this can be detrimental because things like sample size can significantly change the results to be "significant." Overall, I enjoyed our discussion and am happy I am now aware of this issue so I can hopefully avoid it in future projects.
 
+<span style="color:red">I'm so glad you feel like you learned something from this conversation! Honestly, I think the greater science community is only starting to get a handle on this, so welcome to the incipient party!  - Jonathon</span>
 
-#9/20/23 - bias in funding
+
+
+# 9/20/23 - bias in funding
 
 This weeks topic was important to discuss because I feel like it occurs more often than we are aware and can cause bias in scientific results. The funding effect was defined as the idea or outcome of studies when either funded by private or public sponsors. We discussed how the funding effect is something that is real and causes reported results to be consistent with a sponsors interest. Things that happen include a failure to report results that dont benefit the sponsors. One example I found interested that Tristan mentioned in class was bias in spotted owl surveys in the west coast. Spotted oil surveys were conducted on land that was being scouted for timber harvesting and bias results were reporting saying the there were less owls in the areas where the forestry company wanted to harvest timber. This type of data manipulation and bias can be detrimental to the field of conservation and ecology since the results arent accurately reporting habitats the animals are inhabiting. And this bias seemed to happen due to the funding effect with the timber company. Im not sure how we address this issue since we as scientists need funding for our studies, and these private companies are good funding sources. Maybe we need like a checks and balances system to make sure good science and data reporting is being done. Another alternative could be to require studies to report their methods before being conducted, therefore all the results being collected must be reported. 
 
+<span style="color:red">It's the reason lots of folks are pushing for pre-registering studies these days. That way, your methods and hypotheses are clearly articulated ahead of time, and the results are the results whether you like them or not. I honestly don't know where I stand on this idea because it sounds like a lot more work...  - Jonathon</span>
