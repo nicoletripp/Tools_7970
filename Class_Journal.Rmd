@@ -54,19 +54,30 @@ Todays conversation got a little heated!! Just kidding, I think we had a great d
 
 
 
-10/18/23 - Predatory journals
+# 10/18/23 - Predatory journals
+
 I learned a lot in todays class regarding predatory journals. Mainly that we don't have a good way to define them. I think a good start would be to define what a predatory journal is so we can better avoid them when going to publish. Some things we did discuss that could consider a journal predatory is inflated impact factors, easy/fast publishing, barely any peer review, and expensive rates for publishing. I was surprised that impact factors can be inflated in predatory journals. Although it makes sense if these journals commonly cite other papers within them since this increases the impact factor. I was shocked to hear that journals like Nature cost ~$9000 to publish in. How does this not put them in the category of predatory journals? That is a HUGE cost for a researcher or institution to pay. I think the best way we can combat predatory journals right now is by teaching grad students on how to look out for them. Once we know how to identify a predatory journal, we can hopefully avoid publishing them and potentially weed them out. 
 
 
-10/25/23 - pre registration
+# 10/25/23 - pre registration
+
 Before our class I had never heard of preregsitering for a journal. When Jonathon first described it I though it was a great idea. You pre register your project, get it pre approved for being published in the journal, and you've got all your methods and data analysis sorted out before you even get the project sorted. Sounds ideal. Well after this weeks class, it didnt sound so ideal. The reality of pre registering includes potentially getting one set of reviewers that accepts your idea and says go ahead with the project. You complete the project, get a new set of reviewers, and they dont feel the same and say things should have been done differently. Then your paper gets denied. Based on this, it sounds like pre registering might be a waste of time. I hate to say that but if the goal is to know your work will get published no matter your results, but then it doesnt..seems like a lot of work with no benefit. I think in theory pre registering could be great because it prevents people from things like data hacking, publication biases towards significant results, and could cut down on publishing time. Based on where we're at with it right now, I will not be preregistering any of my work. Maybe in the future I will try it out!
 
+<span style="color:red">Yeah, to me it sort of seems like Communism at this point - in theory it's a great idea, but when the rubber meets the road, it just isn't working. - Jonathon</span>
 
-11/1/23
+
+# 11/1/23
+
 The findings of this paper weren't totally surprising, but I was still caught off guard that prominent researchers got disproportionately more credit for their work when their names were revealed during the review process. In class we discussed the possible benefits have having double blind reviews which I think could help reviewers be more honest in their reviews since their names are known/the work is tied to them. One important point we brought up about the double blind review process is that in smaller fields, sometimes you can tell who your reviewers or authors are based on their expertise in that field. So the double blind process can be useful in some scenarios, but I dont think it is the best way to get honest reviews when research fields are small. Im not sure how we can combat the bias that occurs during the review process because based on our discussion in class, it doesnt seem like any options are "perfect." I think the best thing we can do is to educate graduate students and/or newer scientists entering the review process on how to not be bias when reviewing papers. This can include having trainings available for those wanting to review papers. But at the end of the day we are all human and natural bias is going to occur, but we can try and take some steps to avoid this bias from happening. 
 
+<span style="color:red">I personally want to be anonymous as a reviewer, and prefer not to know who authored any publications I'm reviewing. But it's true, I can often tell who reviewed my manuscripts, so maybe I'm not as anonymous as I think. - Jonathon</span>
 
 
-11/8/23 Science Communication
+
+# 11/8/23 Science Communication
+
 I wasnt able to make this weeks class, but I am happy we talked about science communication. I believe knowing how to communicate or work effectively and efficiently to non-scientists is important because we need people to understand and care about our work for it to have an impact. For example, climate change is a big topic that relates to a lot of animal research areas and being able to communicate to the public on what we have found climate change to be impacting is crucial. I think its important to recognize that a lot of scientists are never taught how to communicate to the public. And lets be honest..a lot of us can be awkward and have a hard time doing this effectively. Therefore, having classes and workshops on how to do this is important if we want science to become more accessible to non-scientists. Some scientists are naturally going to be better at communicating, but this doesnt mean others cant learn the right tools to get better at it. I like how the article highlighted that science communication can be time consuming as a lot of these positions/experiences are unpaid. 
 I myself have spent a lot of time on social media teams and doing outreach events. None of these have been paid which understandably, not every organization has the funds and I do it because I see the importance in this work. But it should be a field where individuals can be compensated if the funds are available because science communication is needed if we want our work to have meaning and to reach general audiences. This article emphasized other important science communication tools like eliminating jargon, telling a story, etc. Overall, this article is a good summary of science communication tools and why it is important, but I do think a lot of us have a lot we need to learn in order to be successful communicators of our work. Or...we dont expect scientists to be good at this ON TOP of everything else we need to do and we leave it to the experts. 
+
+
+<span style="color:red">I love your point about how its necessary to teach scientists how to be a science communicator as it doesn't come naturally for many. For instance, I find it relatively easy to talk to people, but tend to avoid talking about my research because I just don't know how to break it down an dmake it sound important. - Jonathon</span>
